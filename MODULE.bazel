@@ -1,0 +1,3 @@
+"""Defines the external dependencies for this Bazel module."""
+
+bazel_dep(name = "rules_cc", version = "0.2.22")
